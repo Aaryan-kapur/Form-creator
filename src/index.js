@@ -17,7 +17,7 @@ const formData = [
   },
   {
     type: "paragraph",
-    label: "This is a demonstration of formBuilder running in a React project."
+    label: "This is a demonstration of a form Builder running in a React project."
   }
 ];
 
